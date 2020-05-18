@@ -1,2 +1,2 @@
 # biodata
-# Yah, ini cuman biodata singkat dan iseng
+Yah, ini cuman biodata singkat dan iseng
